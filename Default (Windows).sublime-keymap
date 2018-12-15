@@ -1,0 +1,5 @@
+[
+	{"keys": ["ctrl+shift+p"],"command": "prompt_select_workspace"},
+	{"keys": ["ctrl+shift+r"],"command": "anaconda_auto_format"},
+	{"keys": ["ctrl+c"],"command": "open_terminal"},
+]
